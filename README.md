@@ -1,4 +1,6 @@
 # make
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftheandrew168%2Fmake.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftheandrew168%2Fmake?ref=badge_shield)
+
 
 Subset of [POSIX make](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html) implemented in [Go](https://golang.org/dl/).
 
@@ -30,3 +32,7 @@ While not a _complete_ subset of POSIX make, this tool is still useful for utili
 - Implemented in a small and readable [~150 lines of code](https://github.com/theandrew168/make/blob/main/make.go)
 - Can bootstrap itself using this project's own [Makefile](https://github.com/theandrew168/make/blob/main/Makefile)
 - Built with love from a remote cabin in eastern Iowa
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftheandrew168%2Fmake.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftheandrew168%2Fmake?ref=badge_large)
